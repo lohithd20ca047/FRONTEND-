@@ -1,0 +1,48 @@
+    Container {
+        position: absolute;
+    
+        right: 30%;
+        top: 25%;
+        border: transparent 2px solid;
+        padding: 20px;
+        width: 20em;
+        height: 15em;
+        border-radius: 5em;
+        background-color:transparent;
+        text-align: center;
+        letter-spacing: 2px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: x-large;
+    }
+.a input{
+    width: 50px;
+}
+.a1{
+    position: relative;
+    right: 13px;
+}
+
+
+    .a{
+        position: relative;
+        padding-top: 20px;
+        right: 23px;
+    }
+    .button{
+        position: relative;
+        top: 32px;
+        border-radius: 10px;
+        background-color: transparent;
+        width: 180px;
+        background-color: #F1CEC7;
+        border: transparent ;
+        height: 29px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: large;
+        
+    }
+    body{
+        background-image: url("image.jpg");
+
+        background-size: cover;
+    }
